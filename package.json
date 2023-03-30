@@ -20,6 +20,7 @@
   "dependencies": {
     "@swc/helpers": "0.4.14",
     "handlebars": "^4.7.7",
+    "lightningcss": "^1.19.0",
     "modern-normalize": "^1.1.0"
   },
   "devDependencies": {
