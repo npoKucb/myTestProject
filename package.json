@@ -2,7 +2,7 @@
   "name": "parceltestproject",
   "version": "2.0.0",
   "description": "**Читать на других языках: [Русский](README.md), [Українська](README.ua.md).**",
-  "homepage": "https://npoKucb.github.io/myTestProject",
+  "homepage": "https://npoKucb.github.io/myTestProject/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /myTestProject/"
